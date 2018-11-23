@@ -1,0 +1,3 @@
+[[https://learnopengl-cn.github.io/01%2520Getting%2520started/03%2520Hello%2520Window/][LearnOpenGL_cn]]
+
+完成入门教程，因为高级的教程还是比较难的。
