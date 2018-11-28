@@ -1,3 +1,5 @@
-[[https://learnopengl-cn.github.io/01%2520Getting%2520started/03%2520Hello%2520Window/][LearnOpenGL_cn]]
+[[https://learnopengl-cn.github.io/01%2520Getting%2520started/03%2520Hello%2520Window/][LearnOpenGL_cn]] 最好的opengl教程，没有之一
+
+进度：
 
 完成入门教程，因为高级的教程还是比较难的。

@@ -20,6 +20,8 @@ include(${CMAKE_CURRENT_SOURCE_DIR}/src/shaders/CMakeLists.txt)
 include(${CMAKE_CURRENT_SOURCE_DIR}/src/textures/CMakeLists.txt)
 include(${CMAKE_CURRENT_SOURCE_DIR}/src/trans/CMakeLists.txt)
 include(${CMAKE_CURRENT_SOURCE_DIR}/src/projection/CMakeLists.txt)
+include(${CMAKE_CURRENT_SOURCE_DIR}/src/camera/CMakeLists.txt)
+include(${CMAKE_CURRENT_SOURCE_DIR}/src/breakout/CMakeLists.txt)
 
 add_executable(window src/window.cpp)
 target_link_libraries(window LINK_PUBLIC ${OPENGL_LIBRARIES} glfw glad ${BOOST_LIBRARIES} ${CMAKE_THREAD_LIBS_INIT})
